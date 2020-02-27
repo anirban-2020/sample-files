@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Subdirectory of OutbackTouring Home Page</title>
+    </head>
+    <body>
+        <p>Hello, this page resides in the /4WD-Images/ directory.</p>
+    </body>
+</html>
